@@ -1,8 +1,8 @@
-CLIENT_ID = ""
-CLIENT_SECRET = ""
-API_ID = 0
-API_HASH = ""
-INITIAL_TOKEN = ""
+CLIENT_ID = "5052840a1252469281ffe0ec969d180b"
+CLIENT_SECRET = "d93b42098ce04a88822dfbe306b6e6be"
+API_ID = 1899108
+API_HASH = "8de7de684ccd03109e6d30eaa98a4489"
+INITIAL_TOKEN = "AQA8hOFPG8g9UhgiI0sRE40wIO9vCjBHJi5K808SIxUBh3hQYwaDwov7K31R8FsWrvN6GQ5tiite39k6kPGUTxz2JhKAs6wdAhwP28qjmNIjnSoveIvlbZMB4wy7wZ7xN7_WzbQ6ajrCxSqNU44BF715PPPb7ndQsrYTa_wt2H_VWkBCDKEvZMR0eKBcA82RTVoAi1fQgmXLa0H0bPbtX6iiKM5zWC0x5rhsBGFrf_vkfbb9y5h"
 INITIAL_BIO = ""
 LOG = "me"
 # the escaping is necessary since we are testing against a regex pattern with it.
